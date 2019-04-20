@@ -1,2 +1,2 @@
 # Python
-Smart Python applications using basic concepts
+Smart Python applications using basic concepts: data structures, loops, functions
